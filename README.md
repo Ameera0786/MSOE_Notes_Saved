@@ -1,1 +1,1 @@
-includes Notes from each semester, excluding hand written notes, such as math notes and physics notes. 
+Includes notes from each semester, excluding hand written notes, such as math notes and physics notes. 
